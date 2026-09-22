@@ -1,0 +1,26 @@
+supplier_id,supplier_name,country,avg_lead_time_days
+1,Kane Inc,Turkey,16
+2,Ferguson LLC,USA,14
+3,"Flynn, Peck and Sullivan",China,13
+4,West-Tran,Turkey,15
+5,Chapman LLC,Germany,17
+6,Lucas Inc,China,7
+7,Mcguire and Sons,UAE,1
+8,Miller-Hudson,USA,22
+9,Wheeler Inc,India,6
+10,"Park, Butler and Jackson",China,14
+11,"Ramos, Taylor and Ross",China,11
+12,Sellers-Snow,Saudi Arabia,18
+13,Mccarty LLC,China,9
+14,Lee-Jones,UAE,1
+15,Holland-Smith,China,14
+16,Mendez Inc,Germany,14
+17,"Wolf, Andrews and Sanchez",China,13
+18,Ryan and Sons,Germany,11
+19,Martin Group,Turkey,8
+20,Miller PLC,UAE,2
+21,Reyes Inc,China,19
+22,"Williams, Hanna and Huynh",Turkey,23
+23,Murray Ltd,Germany,21
+24,Flores LLC,Turkey,17
+25,Rodriguez-Cohen,Saudi Arabia,22
